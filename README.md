@@ -1,4 +1,4 @@
-I love timliao
+I love jkforum
 ==========
 
 
@@ -17,14 +17,14 @@ How to use
 ==========
 
 ```bash
-ilovejkf [timliao url]
+ilovejkf [jkforum url]
 ```
 
 
 Example
 
 ```bash
-ilovejkf http://www.timliao.com/bbs/viewthread.php?tid=xxxxx
+ilovejkf https://www.jkforum.net/thread-xxxxx-1-1.html
 ```
 
 
